@@ -1,0 +1,183 @@
+Angiography:
+  - [3DRA]
+  - [angiography]
+  - [DSA]
+  - [4DCTA]
+  - [MDCTA]
+  - [CTA]
+  - [MRA]
+  - [SWA]
+CT:
+  - [4DCT]
+  - [computer tomography]
+  - [CT]
+  - [CTA]
+  - [CTP]
+  - [FMT-CT]
+  - [microCT]
+  - [DECT]
+  - [PCT]
+  - [SPECT]
+  - [Single photon emission computed tomography]
+  - [SPET]
+  - [NCCT]
+ASL:
+  - [ASL]
+  - [arterial spin labelling]
+  - [pCASL]
+CBFMRI:
+  - [CBFMRI]
+CECT:
+  - [CECT]
+DCE-MRI:
+  - [DCE-MRI]
+DSC:
+  - [DSC]
+DSI:
+  - [DSI]
+DTI:
+  - [DTI]
+  - [DWI]
+  - [diffusion]
+  - [TDI]
+  - [fiber tracking]
+  - [DKI]
+  - [kurtosis]
+  - [DOT]
+  - [HARDI]
+  - [MWI]
+  - [STI]
+  - [TBM]
+  - [white matter]
+  - [fiber tracts]
+ECoG:
+  - [ECoG]
+  - [Electrocorticography]
+ECT:
+  - [ECT]
+  - [Electrical capacitance tomography]
+EEG:
+  - [EEG]
+  - [electroencephalography]
+  - [iEEG]
+  - [electrophysiological]
+  - [brain wave]
+  - [neural oscillations]
+EMG:
+  - [EMG]
+  - [electromyography]
+EOG:
+  - [EOG]
+  - [Electrooculography]
+EPI:
+  - [EPI]
+  - [Echo-planar imaging]
+EPR:
+  - [EPR]
+  - [Electron-paramagnetic imaging]
+ERP:
+  - [ERP]
+  - [event-related potential]
+  - [evoked potentials]
+fMRI:
+  - [fMRI]
+  - [ofMRI]
+  - [functional imaging]
+  - [fcfMRI]
+  - [phMRI]
+  - [brain function]
+  - [brain activity]
+  - [oxygen rich blood]
+  - [blood oxygenation]
+  - [BOLD]
+  - [henodynamic response]
+  - [neural activity]
+LFP:
+  - [LFP]
+  - [Local field potential]
+MEG:
+  - [MEG]
+  - [magnetoencephalography]
+  - [rsMEG]
+MEI:
+  - [MEI]
+  - [multiple energy imaging]
+MEP:
+  - [MEP]
+  - [motor evoked potential] 
+MRH:
+  - [MRH]
+  - [histology]
+MRI:
+  - [MRI]
+  - [VBM]
+  - [morphometry]
+  - [structural imaging]
+  - [microMRI]
+  - [MRImicroscopy]
+  - [MRI4flow]
+  - [brain anatomy]
+  - [cortical thickness]
+  - [brain mapping]
+  - [brain parcellation]
+  - [brain segmentation]
+  - [T1]
+  - [anatomical structure]
+  - [T2]
+MRN:
+  - [MRN]
+MRP:
+  - [MRP]
+  - [perfusion]
+MRV:
+  - [MRV]
+  - [venography]
+Spectroscopy:
+  - [NIRS]
+  - [fNIRS]
+  - [FD-NIRS]
+  - [fMRS]
+  - [functional spectroscopy]
+  - [MRS]
+  - [TRS]
+  - [tNIRS]
+  - [spectroscopy]
+  - [PMRS]
+Opticalimaging:
+  - [Optical imaging]
+  - [Multi-spectral optoacoustic tomography]
+  - [MSOT]
+  - [SOCS]
+PET:
+  - [PET]
+  - [FDG-PET]
+  - [positron emission tomography]
+PWI:
+  - [PWI]
+  - [Perfusion-weighted imaging]
+rsFMRI:
+  - [rsFMRI]
+  - [resting]
+  - [rsfcFMRI]
+rtfMRI:
+  - [rtfMRI]
+SBM:
+  - [SBM]
+SD-OCT:
+  - [SD-OCT]
+SEEG:
+  - [SEEG]
+  - [Stereoelectroencephalography]
+  - [intracranial electroencephalography]
+sLORETA:
+  - [sLORETA]
+SWI:
+  - [SWI]
+tDCS:
+  - [tDCS]
+TMS:
+  - [TMS]
+  - [Transcranial magnetic stimulation]
+  - [rTMS]
+
+
