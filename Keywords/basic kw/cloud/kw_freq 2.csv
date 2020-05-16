@@ -1,0 +1,63 @@
+﻿kw,freq
+cortex,1.000
+aging,0.737
+connectivity,0.638
+cognition,0.345
+motor,0.275
+DMN,0.273
+dementia,0.244
+functional network,0.231
+white matter,0.231
+memory,0.178
+CBF,0.176
+DBS,0.165
+ICA,0.153
+depression,0.136
+attention,0.127
+vision,0.112
+bold,0.091
+sclerosis,0.089
+shizophrenia,0.087
+emotion,0.085
+segmentation,0.085
+development,0.083
+grey matter,0.081
+atlas,0.076
+seizure,0.076
+ADHD,0.074
+amygdala,0.072
+addiction,0.064
+sex,0.063
+atrophy,0.061
+TBI,0.061
+PD,0.059
+plasticity,0.059
+self,0.057
+axon,0.053
+connectome,0.051
+hemodynamic response,0.051
+audition,0.049
+reward,0.047
+pain,0.045
+image registration,0.044
+abnormalities,0.038
+bipolar,0.032
+sleep,0.032
+dopamine,0.028
+FDR,0.028
+BCI,0.023
+tumor,0.023
+personality,0.021
+algorithm,0.015
+autism,0.015
+phobia,0.015
+normalizarion,0.013
+CBV,0.011
+ALE,0.009
+borderline,0.009
+concussion,0.009
+antisocial behavior,0.008
+BMI,0.008
+monte carlo simulations,0.006
+intelligence,0.004
+down-syndrome,0.002
